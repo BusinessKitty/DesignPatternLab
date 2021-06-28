@@ -1,0 +1,30 @@
+﻿  GeneticAlgorithm.cpp
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Individual.h(50,1): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\Neuron.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\GeneticAlgorithm.cpp(44,92): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\GeneticAlgorithm.cpp(61,90): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+  Population.cpp
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Individual.h(50,1): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\Neuron.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(28,67): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(28,67): warning C4267: 'initializing': conversion from 'size_t' to 'const long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(164,42): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(166,74): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(167,70): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(191,83): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(260,53): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(267,63): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Population.cpp(270,53): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  ActivationFunctions.cpp
+  NeuralNet.cpp
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\Neuron.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\NeuralNet.cpp(378,56): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\NeuralNet.cpp(392,35): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  Neuron.cpp
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\Neuron.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\duda_\Desktop\_outbox\src\NeuralNetwork\Neuron.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\duda_\Desktop\_outbox\src\GeneticAlgorithm\Individual.h(50,1): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\duda_\Desktop\_outbox\src\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  IO-DesignPatterns-Labs.vcxproj -> C:\Users\duda_\Desktop\_outbox\src\x64\Debug\IO-DesignPatterns-Labs.exe
